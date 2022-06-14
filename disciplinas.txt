@@ -1,0 +1,5 @@
+ O professor organizou na ilustração 2, em cada
+coluna 4 alunos de uma de disciplina e 2 de outra disciplina.
+ Na ilustraçao 3, na quinta coluna na linha 5 ele percebeu que tinha 3 alunos
+de matemática e 3 de português, ou seja 1 aluno que era antes de
+matemática mudou pra português.
